@@ -1,4 +1,4 @@
-int PlotExample1(){
+int Simple2D(){
 
 	TCanvas *c = new TCanvas("c","XY Plot", 200, 10, 700, 500); //Initialise Canvas to draw on
 
