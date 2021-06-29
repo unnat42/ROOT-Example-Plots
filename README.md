@@ -1,2 +1,3 @@
 # ROOT-Example-Plots
-Example of c++ codes to plot various graphs using ROOT
+
+An example guide to understand how to plot custom functions and custom points using ROOT in c++.
