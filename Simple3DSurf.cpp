@@ -1,4 +1,4 @@
-int PlotExample2(){
+int Simple3DSurf(){
 
 	TCanvas *c = new TCanvas("c","Surfaces Drawing Options",700,700);; //Initialise Canvas to draw on
 
